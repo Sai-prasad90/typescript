@@ -1,4 +1,5 @@
 //===============================
+
 class Myclass {
     public myProperty: string;
 
@@ -11,6 +12,8 @@ let r = new Myclass();
 console.log(r.myProperty);
 
 //=============================
+
+
 class myClass2 {
     private myPrivateProperty: string;
 
@@ -30,6 +33,8 @@ console.log(b.getValue());
 
 
 //============================
+
+
 class myClass3 {
     protected age: number;
 
@@ -56,6 +61,8 @@ class myClass4 extends myClass3 {
 }
 
 //==========================
+
+
 // Complete abstraction using an interface
 interface Bank {
     loan(): number;
