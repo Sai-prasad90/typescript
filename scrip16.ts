@@ -1,4 +1,4 @@
-// UNION AND INTERSECTION
+ // UNION AND INTERSECTION
 
 // Program 1
 // Defining a type 'Result' that can be either a string or a number
