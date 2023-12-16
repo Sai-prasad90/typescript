@@ -24,7 +24,7 @@ let lastName = (arr[1] as string).toLowerCase().length;
 // Program 5
 type Employee3 = { id: number; nameL: string; salary: number };
 let data10: any = { id: 1, nameL: "shreya", salary: 1000 };
-// Type assertion to define variable6 with type Employee3
+
 let variable6: Employee3 = data10 as Employee3;
 
 
