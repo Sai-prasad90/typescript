@@ -60,8 +60,6 @@ enum WeekDay {
     Saturday
 }
 
-
-
 console.log(WeekDay[new Date().getDay()]) //saturday
 
 
@@ -75,27 +73,3 @@ let a: WeekDay = WeekDay[new Date().getDay()]  //saturday
 console.log(a)
 
 
-
-
-
-
-
-
-
-
-
-
-// // program 7
-// // Output:
-// // calculate circle
-// // calculate sqaure
-// // calculate Triangle
-
-// // Stepwise explanation:
-// // 1. An enum named 'Shape' is defined with three numeric values: Circle, Square, and Triangle.
-// enum Shape {
-//     Circle,
-//     Square,
-//     Triangle
-// }
-// // 2. A function 'draw' is declared, which takes a parameter 'shape' of type 'Shape'.
