@@ -46,3 +46,6 @@ let numberStringBoxE = new Box<number,number>(123,235)
 
 let abc1 = numberStringBox.getContent()
 let abc2 = numberStringBox.getContent2()
+
+let abc = spend(data:support):for data10
+let acj = deta(gigabytes) for set of all c
