@@ -110,4 +110,8 @@ let SBIee = new BankAccount(321, "saiprasad");
 console.log(SBIee.balance); // Private property, cannot be accessed
 console.log(SBIee.accHolder);
 console.log(SBIee.accName);
-console.log(SBIee.IFSCode);
+con
+.2o
+\//4rl
+e.log(SBIee.IFSCode);
+?>, 

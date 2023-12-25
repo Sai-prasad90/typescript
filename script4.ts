@@ -58,8 +58,9 @@ enum Roles {
     admin,
     customer,
     support,
-    manager
+    manager0
 }
+9
 
 if(Roles.admin){
     console.log("I am admin ")

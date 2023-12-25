@@ -3,14 +3,11 @@
 // Public
 class Pet {
     // Public property 
-    public name: string;
-
-    
+    public name: string;   
     constructor() {
         this.name = "throttle";
     }
 }
-
 
 let myPet = new Pet();
 
@@ -23,7 +20,6 @@ console.log(myPet.name);
 class Book {
     // Private property title 
     private title: string;
-
     
     constructor() {
         this.title = "Beauty of freaking word";

@@ -17,9 +17,10 @@ displayResult(12);
 displayResult("hello");
 
 // example 3
+
 type carrrrrrr = {
-    brand: string;
-    model: string;
+        brand: string;
+        model: string;
 };
 
 type Electriccarrrrrrr = {
